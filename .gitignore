@@ -136,6 +136,8 @@ celerybeat.pid
 
 # Environments
 .env
+vimal/
+pythondsa/
 .envrc
 .venv
 env/
